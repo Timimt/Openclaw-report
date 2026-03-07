@@ -27,7 +27,7 @@ Technical analysis and application prospects of OpenClaw AI Agent
 1. 系統架構
 
 ○ Agent流程圖  
-○ 記憶如何影響技能調用:一個實際例子
+○ 記憶如何影響技能調用：一個實際例子
 
 2. 技術細節
 
@@ -45,8 +45,8 @@ Technical analysis and application prospects of OpenClaw AI Agent
 
 1. 潜在風險
 
-○ 系統安全漏洞:ClawJacked事件  
-○ 技能市場可能的惡意程式:利爪浩劫(ClawHavoc)
+○ 系統安全漏洞：ClawJacked事件  
+○ 技能市場可能的惡意程式：利爪浩劫(ClawHavoc)
 
 2. 如何防範
 
